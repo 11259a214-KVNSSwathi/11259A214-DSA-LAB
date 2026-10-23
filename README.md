@@ -19,34 +19,3 @@ Register number: **11259A214**
 | 10 | BFS and DFS | [11259A214_exp10.c](11259A214_exp10.c) | [Output](outputs/11259A214_exp10_output.txt) |
 | 11 | Sorting | [11259A214_exp11.c](11259A214_exp11.c) | [Output](outputs/11259A214_exp11_output.txt) |
 | 12 | Hashing | [11259A214_exp12.c](11259A214_exp12.c) | [Output](outputs/11259A214_exp12_output.txt) |
-
-## Compile and run
-
-With GCC installed, for example:
-
-```sh
-gcc -std=c11 11259A214_exp1.c -o exp1 -lm
-./exp1
-```
-
-On Windows with GCC, run `exp1.exe` instead of `./exp1`.
-Change the experiment number to run another program. Sample input files are in
-`inputs/`; existing terminal transcripts are in `outputs/`.
-
-## GitHub upload
-
-1. Sign in to GitHub using your official college email as instructed by the guide.
-2. Create a repository named **11259A214_DSA_LAB** and enable README.
-3. Extract this ZIP and open its **11259A214_DSA_LAB** folder.
-4. In the repository, choose **Add file > Upload files**.
-5. Drag the contents of this folder into the upload area and commit.
-
-The 12 C files belong directly in the repository root, alongside README.md.
-Upload the extracted contents rather than the ZIP itself.
-
-## Source
-
-Programs transcribed from the SCSVMV DSA Laboratory Manual prepared by
-PREETHI R, Assistant Professor, Department of CSE. This package preserves the
-provided programs, sample inputs, and captured outputs; file names and layout
-have been updated to follow the DSA LAB (E-RECORD) GitHub setup guide.
